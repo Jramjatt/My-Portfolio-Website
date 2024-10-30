@@ -49,7 +49,7 @@ export function Box() {
       <div className= "d-flex justify-content-center align-items-center" style={{ height: '70vh'}}>
        
       
-      <Card style={{ width: '25rem'}}>
+      <Card style={{ width: '60rem'}}>
         <Card.Img variant="top" src={Resume} />
         <Card.Body>
           <Card.Title>My Resume</Card.Title>
