@@ -46,7 +46,7 @@ export function Box() {
   }
     return (
       <div><h2>Resume</h2>
-      <div className= "d-flex justify-content-center align-items-center" style={{ height: '70vh'}}>
+      <div className= "d-flex justify-content-center align-items-center" style={{ height: '40vh'}}>
        
       
       <Card style={{ width: '35rem'}}>
