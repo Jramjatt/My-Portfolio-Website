@@ -45,7 +45,7 @@ export function Box() {
      link.click();
   }
     return (
-      <div><h2>Resume</h2>
+      <div>
       <div className= "d-flex justify-content-center align-items-center" style={{ height: '70vh'}}>
        
       
