@@ -1,0 +1,24 @@
+body {
+    background-color:beige;
+}
+
+/* Custom styling for the tabs */
+.nav-tabs .nav-link {
+    color: #007bff; /* Text color */
+    font-weight: bold; /* Bold text */
+    padding: 10px 20px;
+    transition: background-color 0.3s ease; /* Smooth hover transition */
+  }
+  
+  /* Active tab styling */
+  .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #007bff; /* Active tab background color */
+    border-color: #007bff; /* Border color */
+  }
+  
+  /* Hover effect */
+  .nav-tabs .nav-link:hover {
+    background-color: #0056b3; /* Hover background */
+    color: #fff;
+  }
